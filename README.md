@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 👨‍💻 My Data Ananlysis protfolio is available at [https://www.kudosites.com/site/rohan-nawriya](https://www.kudosites.com/site/rohan-nawriya)
+- 👨‍💻 My Data Ananlysis portfolio is available at [https://www.kudosites.com/site/rohan-nawriya](https://www.kudosites.com/site/rohan-nawriya)
 
-- 👨‍💻  My react protfolio is available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
+- 👨‍💻  My react portfolio is available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
 
 - 💬 Ask me about **Data Analysis and Frontend Development**
 
