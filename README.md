@@ -7,13 +7,17 @@
 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
+- 👨‍💻 My Data Ananlysis protfolio is available at [https://www.kudosites.com/site/rohan-nawriya](https://www.kudosites.com/site/rohan-nawriya)
+
+- 👨‍💻  My react protfolio is available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
 
 - 💬 Ask me about **Data Analysis and Frontend Development**
 
 - 📫 How to reach me **rohan15nawariya@gmail.com**
 
-- 📄 Know about my experiences [https://amber-shandie-60.tiiny.site](https://amber-shandie-60.tiiny.site)
+- 📄 Know about my experiences (my Data Analyst based resume) [under editing](N/A)
+
+- 📄 Know about my experiences (my react based resume) [https://amber-shandie-60.tiiny.site](https://amber-shandie-60.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
