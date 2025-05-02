@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rohan15nawariya@gmail.com**
 
-- 📄 Know about my experiences (my Data Analyst based resume) [Resume](https://drive.google.com/file/d/1-oi05tk1aVeuJzISTnpKuyYqI_eSlB8d/view?usp=sharing)
+- 📄 Know about my experiences (my Data Analyst based resume) [Resume](https://rohan150503resume.tiiny.site)
 
 - 📄 Know about my experiences (my react based resume) [https://amber-shandie-60.tiiny.site](https://amber-shandie-60.tiiny.site)
 
