@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">An aspiring Data Analyst, Frontend Developer from India</h3>
+<h3 align="center">A B.Tech undergrad, former Frontend Developer Intern from India</h3>
 
-- 🌱 I’m currently learning **Power BI, SQL for Data Analysis, Advanced Excel, Statistics, and Scikit-Learn**
+- 🌱 I’m currently learning **MERN Stack for My Full Stack Journey and honingmy Data Analysis skills.**
 
-- 👯 I’m looking to collaborate on **EDA on Public Datasets**
+- 👯 I’m looking to collaborate on **MERN Applications & EDA Projects**
 
 - 🤝 I’m looking for help with **AI/ML**
 
 - 👨‍💻 My Data Ananlysis portfolio is available at [https://www.kudosites.com/site/rohan-nawriya](https://www.kudosites.com/site/rohan-nawriya)
 
-- 👨‍💻  My react portfolio is available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
+- 👨‍💻  My portfolio is available at [https://hazygroatportfolio.netlify.app/](https://hazygroatportfolio.netlify.app/)
 
 - 💬 Ask me about **Data Analysis and Frontend Development**
 
-- 📫 How to reach me **rohan15nawariya@gmail.com**
+- 📫 How to reach me **terminalrohan@gmail.com**
 
 - 📄 Know about my experiences (my Data Analyst based resume) [Resume](https://rohan150503resume.tiiny.site)
 
-- 📄 Know about my experiences (my react based resume) [https://amber-shandie-60.tiiny.site](https://amber-shandie-60.tiiny.site)
+- 📄 Know about my experiences (my web dev based resume) [https://amber-shandie-60.tiiny.site](https://amber-shandie-60.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
