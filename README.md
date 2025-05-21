@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A B.Tech undergrad, Frontend Developer Intern from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack for My Full Stack Journey and honingmy Data Analysis skills.**
+- 🌱 I’m currently learning **MERN Stack for My Full Stack Journey and honing my skills.**
 
 - 👯 I’m looking to collaborate on **MERN Applications & EDA Projects**
 
